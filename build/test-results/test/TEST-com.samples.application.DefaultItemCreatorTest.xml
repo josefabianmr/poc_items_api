@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.samples.application.DefaultItemCreatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-10T19:49:03" hostname="CO0C02G50SEMD6M" time="0.385">
-  <properties/>
-  <testcase name="createWhenGeneratorThrowsError()" classname="com.samples.application.DefaultItemCreatorTest" time="0.372"/>
-  <testcase name="createWithSuccessFlow()" classname="com.samples.application.DefaultItemCreatorTest" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
